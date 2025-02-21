@@ -1,0 +1,7 @@
+{
+    "schema": "./src/db/schema.ts",
+    "out": "./src/db/migrations",
+    "dialect": "postgresql",
+    "connectionString": "postgres://admin:admin@localhost:5432/cleaner"
+  }
+  
